@@ -15,8 +15,11 @@ A userscript that converts `[[page name]]` syntax in TickTick / Dida365 into cli
 ## Installation
 
 1. Make sure your userscript manager extension is installed and enabled.
-2. Open the [`ticktick-logseq.user.js`](ticktick-logseq.user.js) file, then click the **Raw** button (on GitHub) — your userscript manager should prompt you to install.
-3. Alternatively, open your userscript manager dashboard, create a new script, and paste the contents of `ticktick-logseq.user.js`.
+2. Click the link below to install directly — your userscript manager should prompt you to confirm:
+
+   **[Install TickTick Logseq Link](https://raw.githubusercontent.com/shangjihao/userscript-ticktick-logseq/main/ticktick-logseq.user.js)**
+
+3. Alternatively, open your userscript manager dashboard, create a new script, and paste the contents of [`ticktick-logseq.user.js`](ticktick-logseq.user.js).
 
 ## Configuration
 
