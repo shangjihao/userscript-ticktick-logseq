@@ -41,7 +41,7 @@ The default graph name is `logseq`. Your setting is saved persistently and only 
 
 ## Usage
 
-Write `[[page name]]` anywhere in your TickTick / Dida365 tasks (title, description, comments, etc.). The script will automatically convert it into a blue clickable link. Clicking the link opens the page in Logseq.
+Write `[[page name]]` anywhere in your TickTick / Dida365 tasks (title, description, comments, etc.). The script displays it as a blue underlined link with a pointer cursor. In editing mode, clicking `[[page name]]` opens Logseq while clicking any other text continues to position the caret normally.
 
 **Examples:**
 
